@@ -1,0 +1,42 @@
+[
+  {
+    "name": "DATA_DIR",
+    "value": "/home",
+    "slotSetting": false
+  },
+  {
+    "name": "ENABLE_OLLAMA_API",
+    "value": "false",
+    "slotSetting": false
+  },
+  {
+    "name": "ENABLE_RAG_WEB_SEARCH",
+    "value": "False",
+    "slotSetting": false
+  },
+  {
+    "name": "VECTOR_DB",
+    "value": "chroma",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITES_CONTAINER_START_TIME_LIMIT",
+    "value": "1800",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITES_ENABLE_APP_SERVICE_STORAGE",
+    "value": "true",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBSITES_PORT",
+    "value": "8080",
+    "slotSetting": false
+  },
+  {
+    "name": "WEBUI_SECRET_KEY",
+    "value": "A_REMPLIR",
+    "slotSetting": false
+  }
+]
